@@ -1,0 +1,10 @@
+Name: cfprefsd Fix
+Package: org.thebigboss.cfprefsdfix
+Replaces: com.ps.cfprefsdfix
+Author: PoomSmart
+Maintainer: PoomSmart
+Depends: firmware (>= 8.0), mobilesubstrate
+Section: Tweaks
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Restore older better preferences saving method.
